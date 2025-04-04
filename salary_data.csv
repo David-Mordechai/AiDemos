@@ -1,0 +1,51 @@
+Experience,EducationLevel,JobTitle,Salary
+1,Bachelor,Software Engineer,52000
+3,Master,Data Scientist,76000
+5,PhD,Machine Learning Engineer,115000
+2,Bachelor,QA Engineer,54000
+4,Master,Backend Developer,80000
+6,Master,Data Engineer,95000
+7,PhD,Software Architect,125000
+8,Bachelor,Frontend Developer,88000
+10,Master,Software Engineer,135000
+9,PhD,Data Scientist,142000
+3,Bachelor,QA Engineer,60000
+4,Bachelor,Backend Developer,78000
+5,Master,Machine Learning Engineer,110000
+1,Master,Data Analyst,58000
+2,Bachelor,Frontend Developer,60000
+6,PhD,Software Architect,128000
+7,Master,Data Engineer,98000
+3,Master,Backend Developer,79000
+8,PhD,Machine Learning Engineer,135000
+4,Bachelor,Data Analyst,65000
+2,Bachelor,Software Engineer,57000
+9,PhD,Data Scientist,145000
+6,Master,Software Engineer,102000
+5,Bachelor,Frontend Developer,82000
+7,PhD,Data Engineer,120000
+3,Master,QA Engineer,67000
+1,Bachelor,Data Analyst,53000
+8,Master,Software Architect,125000
+4,PhD,Data Scientist,117000
+10,PhD,Machine Learning Engineer,150000
+5,Bachelor,Backend Developer,84000
+3,Master,Data Analyst,72000
+6,Bachelor,Software Engineer,96000
+7,Master,Frontend Developer,97000
+2,Master,QA Engineer,60000
+8,PhD,Data Engineer,130000
+4,Master,Machine Learning Engineer,106000
+1,Bachelor,Backend Developer,55000
+3,PhD,Data Scientist,98000
+5,Master,Software Engineer,98000
+2,Bachelor,Frontend Developer,62000
+6,PhD,Data Analyst,100000
+7,Master,Software Architect,127000
+4,Master,Data Scientist,89000
+8,Bachelor,Software Engineer,110000
+5,PhD,QA Engineer,105000
+3,Bachelor,Data Analyst,64000
+6,Master,Backend Developer,95000
+7,PhD,Frontend Developer,115000
+10,Bachelor,Software Engineer,130000
